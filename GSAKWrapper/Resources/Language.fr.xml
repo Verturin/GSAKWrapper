@@ -7,101 +7,101 @@
   <string name="cancel" value="Annuler" />
   <string name="changed date" value="date change" />
   <string name="check" value="check" />
-  <string name="childload" value="" />
-  <string name="children" value="" />
-  <string name="clear user flag" value="" />
+  <string name="childload" value="childload" />
+  <string name="children" value="children" />
+  <string name="clear user flag" value="effacer user flag" />
   <string name="conditions" value="conditions" />
   <string name="copy to database" value="Copier vers la Base" />
   <string name="country" value="pays" />
   <string name="county" value="region" />
-  <string name="created date" value="" />
-  <string name="custom" value="" />
-  <string name="database" value="" />
+  <string name="created date" value="date cree" />
+  <string name="custom" value="habitude" />
+  <string name="database" value="base de donnee" />
   <string name="dates" value="dates" />
   <string name="delete" value="effacer" />
   <string name="delete all geocaches" value="effacer toutes les caches" />
-  <string name="delete flow {0}?" value="" />
-  <string name="delete from database" value="" />
-  <string name="deutsch" value="" />
+  <string name="delete flow {0}?" value="efface flow {0}?" />
+  <string name="delete from database" value="efface de la base" />
+  <string name="deutsch" value="allemand" />
   <string name="difficulty" value="difficulte" />
-  <string name="distance from center (km)" value="" />
-  <string name="distance from location (km)" value="" />
-  <string name="dnf (did not find)" value="" />
-  <string name="dnf date" value="" />
-  <string name="elevation" value="eevation" />
+  <string name="distance from center (km)" value="distance du centre (km)" />
+  <string name="distance from location (km)" value="distance de ma position (km)" />
+  <string name="dnf (did not find)" value="dnf (pas trouvee)" />
+  <string name="dnf date" value="date dnf" />
+  <string name="elevation" value="elevation" />
   <string name="english" value="anglais" />
   <string name="error" value="erreur" />
-  <string name="execute" value="" />
-  <string name="execute once" value="" />
-  <string name="export active flow" value="" />
-  <string name="export all flows" value="" />
+  <string name="execute" value="executer" />
+  <string name="execute once" value="executer une fois" />
+  <string name="export active flow" value="exporter active flow" />
+  <string name="export all flows" value="exporter tous les flows" />
   <string name="favorite points" value="points favorits" />
-  <string name="finished flow" value="" />
-  <string name="finishing action" value="" />
-  <string name="flow {0} finished in {1} seconds" value="" />
+  <string name="finished flow" value="flow termine" />
+  <string name="finishing action" value="terminer l'action" />
+  <string name="flow {0} finished in {1} seconds" value="flow {0} termine dans {1} secondes" />
   <string name="found" value="trouve" />
-  <string name="found by me date" value="" />
-  <string name="found count" value="" />
-  <string name="français" value="" />
+  <string name="found by me date" value="trouve par date" />
+  <string name="found count" value="nombre de trouve" />
+  <string name="français" value="french" />
   <string name="ftf (first to find)" value="PAT (premier a trouver)" />
-  <string name="gc note" value="" />
+  <string name="gc note" value="note gc" />
   <string name="general" value="general" />
-  <string name="geocache container" value="" />
-  <string name="geocache name" value="" />
-  <string name="geocache type" value="" />
+  <string name="geocache container" value="taille de la cache" />
+  <string name="geocache name" value="nom de la cache" />
+  <string name="geocache type" value="type de la cache" />
   <string name="gsak wrapper" value="GSAK Wrapper" />
-  <string name="has corrected" value="" />
-  <string name="has travel bug (tb/coin)" value="" />
-  <string name="has user note" value="" />
+  <string name="has corrected" value="a ete corrige" />
+  <string name="has travel bug (tb/coin)" value="a un travel/bug (tb/coin)" />
+  <string name="has user note" value="a une note utilisateur" />
   <string name="help" value="aide" />
-  <string name="import flows" value="" />
-  <string name="in" value="" />
-  <string name="is owner" value="" />
-  <string name="ispremium (pmo)" value="" />
-  <string name="language" value="" />
-  <string name="last found date" value="" />
-  <string name="last gpx date" value="" />
-  <string name="last log date" value="" />
-  <string name="last user date" value="" />
-  <string name="latitude" value="" />
-  <string name="locked" value="" />
+  <string name="import flows" value="importer flows" />
+  <string name="in" value="dans" />
+  <string name="is owner" value="est proprietaire" />
+  <string name="ispremium (pmo)" value="est premium (pmo)" />
+  <string name="language" value="langue" />
+  <string name="last found date" value="derniere date trouve" />
+  <string name="last gpx date" value="dernier date de gpx" />
+  <string name="last log date" value="dernier date de log" />
+  <string name="last user date" value="derniere date de l utilisateur" />
+  <string name="latitude" value="latitude" />
+  <string name="locked" value="bloque" />
   <string name="logs" value="logs" />
-  <string name="long htm" value="" />
-  <string name="longitude" value="" />
-  <string name="macroflag" value="" />
-  <string name="name" value="" />
-  <string name="nederlands" value="" />
+  <string name="long htm" value="long htm" />
+  <string name="longitude" value="longitude" />
+  <string name="macroflag" value="macroflag" />
+  <string name="name" value="nom" />
+  <string name="nederlands" value="pays-bas" />
   <string name="new" value="nouveau" />
   <string name="new folder" value="nouveau repertoire" />
-  <string name="number of logs" value="" />
+  <string name="number of logs" value="nombre de logs" />
   <string name="ok" value="ok" />
-  <string name="original text" value="" />
-  <string name="other" value="" />
-  <string name="overwrite existing data" value="" />
-  <string name="overwrite flow {0}?" value="" />
-  <string name="owner name" value="" />
-  <string name="placed by" value="" />
-  <string name="placed date" value="" />
-  <string name="preparing action" value="" />
-  <string name="refresh" value="" />
+  <string name="original text" value="texte original" />
+  <string name="other" value="autre" />
+  <string name="overwrite existing data" value="overwrite existing data" />
+  <string name="overwrite flow {0}?" value="overwrite flow {0}?" />
+  <string name="owner name" value="nom du proprietaire" />
+  <string name="placed by" value="placee par" />
+  <string name="placed date" value="date de placement" />
+  <string name="preparing action" value="action prete" />
+  <string name="refresh" value="rafaichir" />
   <string name="rename" value="renonmer" />
-  <string name="running action" value="" />
-  <string name="select folder" value="" />
-  <string name="select root data folder" value="" />
-  <string name="set user flag" value="" />
-  <string name="short htm" value="" />
-  <string name="smart name" value="" />
-  <string name="smart override" value="" />
+  <string name="running action" value="running action" />
+  <string name="select folder" value="selectionner le repertoire" />
+  <string name="select root data folder" value="select root data folder" />
+  <string name="set user flag" value="set user flag" />
+  <string name="short htm" value="short htm" />
+  <string name="smart name" value="smart name" />
+  <string name="smart override" value="smart override" />
   <string name="source" value="source" />
   <string name="start" value="lancer" />
-  <string name="starting flow" value="" />
+  <string name="starting flow" value="starting flow" />
   <string name="state" value="etat" />
-  <string name="symbol" value="" />
-  <string name="temporarily disabled" value="" />
+  <string name="symbol" value="symbol" />
+  <string name="temporarily disabled" value="temporairement desactivee" />
   <string name="terrain" value="terrain" />
-  <string name="user flag" value="" />
-  <string name="user note date" value="" />
-  <string name="watch" value="" />
+  <string name="user flag" value="user flag" />
+  <string name="user note date" value="date de la note utilisateur" />
+  <string name="watch" value="regarder" />
   <string name="where" value="ou" />
   <string name="wiki" value="wiki" />
 </resources>
